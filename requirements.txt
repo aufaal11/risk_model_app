@@ -1,0 +1,7 @@
+scikit-learn
+category_encoders
+pandas
+numpy
+joblib
+streamlit
+
